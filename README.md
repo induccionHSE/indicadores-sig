@@ -38,6 +38,6 @@ Matriz estructurada de indicadores del Sistema Integrado de Gestión (SIG) con t
 ## Autor
  
 **Holman Moreno** — HSEQ Coordinator · Petroleum Engineer
-📧 hmoreno@pbi.com.co
+📧 holman3001@hotmail.com
 🔗 [github.com/induccionhse](https://github.com/induccionhse)
  
